@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    background-color: #272829;
+    text-align: center;
+    color: rgb(237, 237, 237);
+}
+.gameplay{
+    display: flex;
+    justify-content: space-evenly;
+}
+h1{
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: 5rem;
+    margin-bottom: 0;
+}
+h3{
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: 2rem;
+    margin-top: 0;
+}
+p{
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: 1.5rem;
+}
+img{
+    width: 18rem;
+}
